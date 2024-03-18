@@ -344,7 +344,7 @@ textarea {
   width: 16px;
   height: 16px;
   border: 1px solid var(--navy-blue-shade);
-  border-radius: 4px;
+  border-radius: 2px;
   transition: var(--tr-border), var(--tr-bg-color);
 }
 
